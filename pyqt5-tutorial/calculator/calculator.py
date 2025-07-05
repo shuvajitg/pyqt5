@@ -6,7 +6,6 @@ mainWindow = QWidget()
 mainWindow.setWindowTitle("Calculator")
 mainWindow.resize(100, 300)
 
-
 text_label = QLineEdit()
 grid = QGridLayout()
 
